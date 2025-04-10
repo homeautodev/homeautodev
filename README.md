@@ -14,7 +14,7 @@ Specializing in smart home infrastructure, Home Assistant, and reliable automati
 ---
 
 ### 🚀 Projects
-- [VPN Smart Home Automation](github.com/homeautodev/vpn-smart-home-automation)  
+- [VPN Smart Home Automation](https://github.com/homeautodev/vpn-smart-home-automation)  
   Automated secure remote access to a home network via WireGuard, with systemd auto-restart and full ISO backup/restore pipeline.
 
 ---
@@ -50,7 +50,7 @@ Ich spezialisiere mich auf Smart-Home-Infrastrukturen (Home Assistant, VPN, Syst
 ---
 
 ### 🚀 Projekte:
-- [VPN Smart Home Automation](github.com/homeautodev/vpn-smart-home-automation)  
+- [VPN Smart Home Automation](https://github.com/homeautodev/vpn-smart-home-automation)  
   Sicherer VPN-Zugang zum Heimnetzwerk, automatische Systemüberwachung und ISO-Backup mit systemd.
 
 ---
